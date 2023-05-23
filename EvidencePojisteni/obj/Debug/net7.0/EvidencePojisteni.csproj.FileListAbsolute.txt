@@ -1,0 +1,60 @@
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.exe
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.deps.json
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.runtimeconfig.json
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.dll
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.dll
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\refint\EvidencePojisteni.dll
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Users\brych\Desktop\C#\EvidencePojisteni\EvidencePojisteni\obj\Debug\net7.0\ref\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.exe
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.deps.json
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.runtimeconfig.json
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\refint\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Users\brych\Desktop\ZaverecnyProjekt\ZaverecnyProjekt\EvidencePojisteni\obj\Debug\net7.0\ref\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.exe
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.deps.json
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.runtimeconfig.json
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\refint\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Debug\net7.0\ref\EvidencePojisteni.dll
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.exe
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.deps.json
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.runtimeconfig.json
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.dll
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\bin\Debug\net7.0\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.dll
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\refint\EvidencePojisteni.dll
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Users\brych\Desktop\Nová složka (2)\EvidencePojisteni\obj\Debug\net7.0\ref\EvidencePojisteni.dll
