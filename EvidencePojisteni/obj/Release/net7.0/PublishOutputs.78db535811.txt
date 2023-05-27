@@ -1,0 +1,5 @@
+C:\Users\brych\Desktop\EvidencePojisteni.exe
+C:\Users\brych\Desktop\EvidencePojisteni.dll
+C:\Users\brych\Desktop\EvidencePojisteni.deps.json
+C:\Users\brych\Desktop\EvidencePojisteni.runtimeconfig.json
+C:\Users\brych\Desktop\EvidencePojisteni.pdb

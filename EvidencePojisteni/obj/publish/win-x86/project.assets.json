@@ -1,7 +1,8 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {},
+    "net7.0/win-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -17,7 +18,7 @@
       "projectName": "EvidencePojisteni",
       "projectPath": "C:\\Users\\brych\\Desktop\\ProjektPojisteni\\EvidencePojisteni\\EvidencePojisteni.csproj",
       "packagesPath": "C:\\Users\\brych\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brych\\Desktop\\ProjektPojisteni\\EvidencePojisteni\\obj\\",
+      "outputPath": "C:\\Users\\brych\\Desktop\\ProjektPojisteni\\EvidencePojisteni\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brych\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,6 +63,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Release\net7.0\win-x86\EvidencePojisteni.exe
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Release\net7.0\win-x86\EvidencePojisteni.deps.json
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Release\net7.0\win-x86\EvidencePojisteni.runtimeconfig.json
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Release\net7.0\win-x86\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\bin\Release\net7.0\win-x86\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\EvidencePojisteni.AssemblyInfo.cs
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\refint\EvidencePojisteni.dll
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\EvidencePojisteni.pdb
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\EvidencePojisteni.genruntimeconfig.cache
+C:\Users\brych\Desktop\ProjektPojisteni\EvidencePojisteni\obj\Release\net7.0\win-x86\ref\EvidencePojisteni.dll
